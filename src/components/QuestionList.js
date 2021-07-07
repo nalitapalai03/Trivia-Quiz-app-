@@ -1,5 +1,5 @@
 const QuestionList = [{
-        question: "WHat is the height of Mt. Everest?",
+        question: "What is the height of Mt. Everest?",
         answerList: [
             { answer: "8848", isCorrect: true },
             { answer: "10147", isCorrect: false },
